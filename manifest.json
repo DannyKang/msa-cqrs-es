@@ -1,0 +1,8 @@
+{
+    "runtime": {
+        "majorVersion": "8"
+    },
+    "command": "java -jar AxonApp-0.0.1-SNAPSHOT.jar",
+    "release": {},
+    "notes": "Axon Spring Boot App"
+}
